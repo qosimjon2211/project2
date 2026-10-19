@@ -1,0 +1,11 @@
+body{
+    background-color: #FFFFFF
+}
+.Backround{
+    background: url(assets/bg.svg) no-repeat center/cover;
+    width: 1424.5px;
+    height: 800px;
+
+}
+@import "tailwindcss";
+@plugin "daisyui";
